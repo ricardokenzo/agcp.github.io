@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<MYData>
+    <login_details>
+        <unique_ref>1-61</unique_ref>
+    <login_name>User 1</login_name>
+        <login>agcp1</login>
+        <password>agcp1</password>
+    </login_details>
+
+
+    <login_details>
+        <unique_ref>1-61</unique_ref>
+    <login_name>User 2</login_name>
+        <login>agcp2</login>
+        <password>agcp2</password>
+    </login_details>
+
+
+</MYData>
